@@ -21,7 +21,7 @@ To run this project locally, you just need a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/Pradip1010100/MyPortfolio.git)
    ```
 2. Open the `index.html` file in your browser.
 
