@@ -32,7 +32,7 @@ This project is a demonstration of front-end web development using basic HTML, C
 ## Deployment
 
 The website is published using GitHub Pages. You can access it at:
-[https://YourUsername.github.io/YourRepository](https://YourUsername.github.io/YourRepository)
+[https://pradip1010100.github.io/MyPortfolio/](https://pradip1010100.github.io/MyPortfolio/)
 
 ## Contributing
 
